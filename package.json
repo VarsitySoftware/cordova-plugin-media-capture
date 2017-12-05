@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-media-capture",
+  "name": "com.varsitysoftware.plugins.media-capture",
   "version": "2.0.1-dev",
   "description": "Cordova Media Capture Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-media-capture",
+    "id": "com.varsitysoftware.plugins.media-capture",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media-capture"
+    "url": "https://github.com/VarsitySoftware/cordova-plugin-media-capture"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
